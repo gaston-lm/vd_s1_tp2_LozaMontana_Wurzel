@@ -1,4 +1,8 @@
-# Astronautas que participaron en misiones espaciales
+# TP 2 | Explicar con datos
+
+## Objetivos
+
+Brindar un panorama general de técnicas de visualización y familiarizarse con la librería de visualización Plot.js. En primera instancia, se trabajará con un conjunto de datos tabulares y se visualizarán con diferentes marcas y canales para que, en una segunda etapa, se apliquen principios de diseño de forma, color y tipografía según la idea que se quiera comunicar.
 
 Los datos corresponden a astronautas que participaron en misiones espaciales desde el 1 de enero de 2010 hasta el 15 de enero de 2020 recopilados por la NASA (Estados Unidos), Roscosmos (Rusia) y otros sitios. Son más de 150 registros, en donde cada fila representa un astronauta participante de una misión espacial. 
 
